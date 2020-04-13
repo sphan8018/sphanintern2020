@@ -16,121 +16,99 @@
 
     <li>  <a href="#" class=" nav-button brand-logo" ><font size="5" >THE DEPARTMENT OF THE TREASURY</font></a></li> 
 
-      <li class="nav-item"><a  class="left-underline nav-button"  href="index.html">CONTACT</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button"  href="contact.html">CONTACT</a></li>
       <li class="nav-item"><a  class="left-underline nav-button" href="resume.html">RESUME</a></li>
       <li class="nav-item"><a  class="left-underline nav-button" href="work.html">WORK</a></li>
-      <li class="nav-item"><a  class="left-underline nav-button"  href="main.html">HOME</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button"  href="index.html">HOME</a></li>
     </ul>
 </div>
 </tr>
 <tr>
 <div class="navbar1" align="center">
  <ul class="navbar-container">
-<P> <font size="6" color="Yellow">SON PHAN'S INTERNSHIP IN SPRING 2020 </font> </P>
+<P><td> <font size="6" color="Yellow">SON PHAN'S INTERNSHIP IN SPRING 2020 </font> </P></td>
 </ul>
   </div>
 </tr>
->
+</table>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div class="parallax p1" id="section-1">
-    <hgroup>
-      
-      <img src="treasury building.jpg" alt="treasurybuilding"  width="650"
-     height="541">
-   </hgroup>
-
-</div>
 
 <div class="row" >
    
-      <p><font size="5">  Internship at the digital team of the Department of the Treasury, Departmental Office, I have a huge chance to learn new things and to discover my ability of analyzing based on the technique that I have studied in the University of Maryland. By adopting a new environment of information technology, my internship routine involved in working on migration of Treasury.gov page, analyze data and create of Web form for code.gov. Besides, studying some coding languages such as HTML, CSS were my duties. My internship opened my mind about my career in the future very much because I am able to work in diversities fields which require analytical skills. </font> </p>
-       
+      <p align="center"><h4> My Intern in Spring 2020   </h4> </p>
+       <p><font size="5">  Internship at the digital team of the Department of the Treasury, Departmental Office, I have a huge chance to learn new things and to discover my ability of analyzing based on the technique that I have studied in the University of Maryland. By adopting a new environment of information technology, my internship routine involved in working on migration of Treasury.gov page, analyze data and create of Web form for code.gov. Besides, studying some coding languages such as HTML, CSS were my duties. My internship opened my mind about my career in the future very much because I am able to work in diversities fields which require analytical skills. </font></p>
  </div>
 
   <div class="row">
-    <div class="col-4">
-      <a href="https://home.treasury.gov/"><h4>THE DEPARTMENT OF THE TREASURY</h4></a>
-
-<p><font size="5"> The Department of the Treasury has two majors: Departmental Offices and the operating bureaus. Its basic functions include managing Federal finances, collecting taxes, duties and monies paid to and due to the U.S and paying all bills of the U.S, currency and coinage, managing Government accounts and the public debt, supervising national banks and thrift institutions, advising on domestic and international financial, monetary, economics, trade and tax policy, enforcing Federal finance and tax law, investigating and prosecuting tax evaders, counterfeiters, and forgers. It plays important roles to manage the financial and currency market along with Federal Reserve, and the fiscal budget for the government's activities.</font> </p>
+    <div class="col-6">
+      <a ><h4>MIGRATION: FROM SHAREPOINT TO DRUPAL</h4></a>
+<p><font size="5" color="#FF9966">Content manager: </font><font size="5" >Based on the tickets were made, information had to bring from the SharePoint to the Drupal. It included contents, documents, links, and email address (if necessary).  This job required accurately and disciplined the procedure 100%. After migrating, the tickets would be moved to the progressing boxes, where it will be checked by other team members. <br>
+<br><font size="5" color="#FF9966">Checking the qualified checklist:</font> a team member would be assigned to check the content to make sure all of data were correctly, and no any trashed tag or mistake were made. A ticket had to be gone through more than twenty points’ checklist before moving to higher level checking, then it can be published.
+ </font>
+ </p>
  
  </div>
-    <div class="col-6" align="center">
-      <h4>TREASURY CHART</h4>
-      <img src="organizational-chart.png" alt="organizational chart" >
+    <div class="col-4" align="center">
+     <img src="migration.jpg"  width="400"
+     height="300">
+     
     </div> 
   </div>
 
 <div class="row">
 <div class="col-4" align= "center">
-<h4>Digital Team office location </h4>
-<img src="1750building.jpg"  width="400"
-     height="300">
+ <h4>ANALYSIS AND CREATION WEB FORM FOR CODE.GOV</h4>
+<h4 > Link: <a href="https://code.gov/">https://code.gov </a> </h4>
+<font size="4.8">The color code that was assigned for me to learn how rate for a coding. Most of our digital team's codes had rate over 7,5, but my supervisor wanted to have better rate. </font>
+    
 </div>
     <div class="col-6">
    
-      <h4>DIGITAL TEAM</h4>
+      <p><font size="5" color="#FF9966">Analyst Code (chance for me to learn JSON)</font></p>
 
-      <p> <font size="5"> Digital Services provides public-facing, extranet, and intranet web solutions via the Workplace.gov Community Cloud (WC2) shared services offering to provide the U.S. Department of the Treasury with Software-As-A-Service (SaaS), Platform-As-A-Service (PaaS), and miscellaneous professional services including consulting on business solutions.</font></p>
+      <p> <font size="5"> According to requirements from government, I compared our existed code to the sample code from the guidelines:</font></p>
+<p> <font size="5">-	 Make note about how difference between two sources.</font></p>
+<p> <font size="5">-	 Feed back to supervisor and rearrange the code as the guidelines.</font></p>
+<p> <font size="5">-	Adjust, addition, or delete if necessary.</font></p>
+<p> <font size="5">-	Run on the code.gov/tools to make sure no any mistake.</font></p>
+<p> <font size="5">-	Record and suggestion with supervisor. </font></p>
+<p><font size="5" color="#FF9966">Creation a Web form for Code.gov</font></p>
+<p> <font size="5">- Creating a webpage by HTML and CSS </font></p>
+<p> <font size="5">- Input data are the code from JSON</font></p>
+<p> <font size="5">- Data will perform on the frame that will be the JSON file </font></p>
     </div></div>
 <br>
 
  <div class="row">
  <div class="container1">
 
-      <h4>DIGITAL TEAM'S SERVICES</h4>
+      <h4>STUDY CODING</h4>
 </div>
     <div class="col-3">
 <ul >
-      <h4>Content Management Systems (CMS)</h4>
-      <li ><h5> Drupal</h5></li>
-      <li ><h5> SharePoint 2013</h5></li>
-<h4>Dashboards-as-a-Service</h4>
-      <li ><h5> Tableau</h5></li>
-      <li ><h5> SalesForce</h5></li>
-<h4>Premium Support</h4>
-      <li ><h5> Extended Service Desk Hours</h5></li>
-      <li ><h5> Enhanced Service Desk Service Level Objectives</h5></li>
-<li ><h5>Custom Support</h5></li>
-
-
-
-
+    <p><font size="5" color="#FF9966">Creation of fillable </font></p>
+      <li ><h5> Create a form by MS Word</h5></li>
+      <li ><h5> Saving as PDF file then edit it on PDF software </h5></li>
+<li><h5>Assign for each of term based on what kind of information required.</h5></li>
+      <li ><h5> Export it </h5></li>
+      
 </ul>
     </div>
     <div class="col-3" >
 <ul >
-      <h4>Enterprise File Sharing and Sync</h4>
-      <li ><h5>. FileCloud</h5></li>
-<li ><h5> Box.com</h5></li>
-<li ><h5> SharePoint 2013</h5></li>
-<li ><h5> Drupal Web CMS (also SaaS)</h5></li>
-<li ><h5> Survey Gizmo</h5></li>
-<li ><h5> Salesforce (also SaaS)</h5></li>
-<li ><h5> Dashboards-as-a-Service (also SaaS)</h5></li>
+      <p><font size="5" color="#FF9966">Studying HTML and CSS</font></p>
+      <h4 > Link: <a href="https://www.codecademy.com">https://www.codecademy.com </a> </h4>
+
+<li ><h5> This website I designed based on basic HTML and CSS </h5></li>
+
 </ul>
     </div> 
    <div class="col-3" >
      <ul >
-     <h4> Content Maintenance</h4>
-      <li ><h5> Critical Release Support</h5></li>
-<li ><h5> Service Desk</h5></li>
-<li ><h5> 508 Accessibility</h5></li>
-<li ><h5> Site Usability</h5></li>
-<li ><h5> Survey Gizmo</h5></li>
-<li ><h5> Web Analytics </h5></li>
-   
-<h4>Application Lifecycle Management (ALM)</h4>
-      <li ><h5> Atlassian Suite – JIRA, BitBucket, Bamboo and Confluence</h5></li>
+<p><font size="5" color="#FF9966">Studying Python</font></p>
+     <p><h4>Link :  <a href="https://www.coursera.org/learn/python-statistics-financial-analysis/home/welcome
+">Study Python</h4></a></p>
+      
 
     </ul>
     </div>
@@ -139,42 +117,21 @@
    
 
 
-  <div class="row">
-    <div class="col-4"><br> <br> <br>
-<br>
-<h4> Role:</h4>
-<p><h5> UX/UI Designer , Content Manager, Data Analyst </h5> </p>
-      <h4> Responsibilities:</h4>
-     
-<li ><h5> Migration of Treasury.gov Pages</h5></li>
-<li ><h5> Participation in Daily Scrums for Treasury.gov and Interns</h5></li>
-<li ><h5> Creation of Web form for Code.gov</h5></li>
-<li ><h5> Creation of fillable PDF</h5></li>
-<li ><h5> Study coding HTML, CSS, Python</h5></li>
-     
+  <div class="container">
+    
+<p> <H4> Internship with Me</H4></p>
+<p> <font size="5" color="#FF9966">How the Internship relate to my career aspirations</font></p>
+<p><font size="5" color="#FF9966">How the Internship with my original expectations</font></p>
   </div>
 
 
-    <div class="col-6">
-<font size="6" color="blue">Son Phan </font>
-<h5>OCIO Intern at digital team </h5>
-      <img src="IMG_4906.jpg"  width="600"
-     height="600">
-
-</div>
-</div>
+    
 <br>
 <br>
 <br>
 <br>
 
 
-<div align="center">
-      <h4> How to find Degital Team office </h4>
-      <img src="1750map.png" alt="treasurybuilding"  width="1000"
-     height="341">
-
-  </div>   
 
  <div class="footer-copyright" >
       
