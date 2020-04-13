@@ -1,0 +1,180 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <title>Son Phan Page</title>
+  <script src="jquery.min.js"></script>
+</head>
+
+<body style="background-image: url('logo.png');">
+  <link href='styles.css' rel='stylesheet' type='text/css'>
+<table>
+<tr>
+  <div class="navbar">
+    <ul class="navbar-container">
+
+    <li>  <a href="#" class=" nav-button brand-logo" ><font size="5" >THE DEPARTMENT OF THE TREASURY</font></a></li> 
+
+      <li class="nav-item"><a  class="left-underline nav-button"  href="index.html">CONTACT</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button" href="resume.html">RESUME</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button" href="work.html">WORK</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button"  href="index.html">HOME</a></li>
+    </ul>
+</div>
+</tr>
+<tr>
+<div class="navbar1" align="center">
+ <ul class="navbar-container">
+<P> <font size="6" color="Yellow">SON PHAN'S INTERNSHIP IN SPRING 2020 </font> </P>
+</ul>
+  </div>
+</tr>
+>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="parallax p1" id="section-1">
+    <hgroup>
+      
+      <img src="treasury building.jpg" alt="treasurybuilding"  width="650"
+     height="541">
+   </hgroup>
+
+</div>
+
+
+  <div class="row">
+    <div class="col-4">
+      <a href="https://home.treasury.gov/"><h4>THE DEPARTMENT OF THE TREASURY</h4></a>
+
+<p><font size="5"> The Department of the Treasury has two majors: Departmental Offices and the operating bureaus. Its basic functions include managing Federal finances, collecting taxes, duties and monies paid to and due to the U.S and paying all bills of the U.S, currency and coinage, managing Government accounts and the public debt, supervising national banks and thrift institutions, advising on domestic and international financial, monetary, economics, trade and tax policy, enforcing Federal finance and tax law, investigating and prosecuting tax evaders, counterfeiters, and forgers. It plays important roles to manage the financial and currency market along with Federal Reserve, and the fiscal budget for the government's activities.</font> </p>
+ 
+ </div>
+    <div class="col-6" align="center">
+      <h4>TREASURY CHART</h4>
+      <img src="organizational-chart.png" alt="organizational chart" >
+    </div> 
+  </div>
+
+<div class="row">
+<div class="col-4" align= "center">
+<h4>Digital Team office location </h4>
+<img src="1750building.jpg"  width="400"
+     height="300">
+</div>
+    <div class="col-6">
+   
+      <h4>DIGITAL TEAM</h4>
+
+      <p> <font size="5"> Digital Services provides public-facing, extranet, and intranet web solutions via the Workplace.gov Community Cloud (WC2) shared services offering to provide the U.S. Department of the Treasury with Software-As-A-Service (SaaS), Platform-As-A-Service (PaaS), and miscellaneous professional services including consulting on business solutions.</font></p>
+    </div></div>
+<br>
+
+ <div class="row">
+ <div class="container1">
+
+      <h4>DIGITAL TEAM'S SERVICES</h4>
+</div>
+    <div class="col-3">
+<ul >
+      <h4>Content Management Systems (CMS)</h4>
+      <li ><font size="5"> Drupal</font></li>
+      <li ><font size="5"> SharePoint 2013</font></li>
+<h4>Dashboards-as-a-Service</h4>
+      <li ><font size="5">> Tableau</font></li>
+      <li ><font size="5">SalesForce</font></li>
+<h4>Premium Support</h4>
+      <li ><font size="5"> Extended Service Desk Hours</font></li>
+      <li ><font size="5"> Enhanced Service Desk Service Level Objectives</font></li>
+<li ><font size="5">Custom Support</font></li>
+
+
+
+
+</ul>
+    </div>
+    <div class="col-3" >
+<ul >
+      <h4>Enterprise File Sharing and Sync</h4>
+      <li ><font size="5"> FileCloud</font></li>
+<li ><font size="5"> Box.com</font></li>
+<li ><font size="5"> SharePoint 2013</font></li>
+<li ><font size="5"> Drupal Web CMS (also SaaS)</font></li>
+<li ><font size="5"> Survey Gizmo</font></li>
+<li ><font size="5"> Salesforce (also SaaS)</font></li>
+<li ><font size="5"> Dashboards-as-a-Service (also SaaS)</font></li>
+</ul>
+    </div> 
+   <div class="col-3" >
+     <ul >
+     <h4> Content Maintenance</h4>
+      <li ><font size="5"> Critical Release Support</font></li>
+<li ><font size="5"> Service Desk</font></li>
+<li ><font size="5"> 508 Accessibility</font></li>
+<li ><font size="5"> Site Usability</font></li>
+<li ><font size="5"> Survey Gizmo</font></li>
+<li ><font size="5"> Web Analytics </font></li>
+   
+<h4>Application Lifecycle Management (ALM)</h4>
+      <li ><font size="5"> Atlassian Suite – JIRA, BitBucket, Bamboo and Confluence</font></li>
+
+    </ul>
+    </div>
+  </div>
+    
+   
+
+
+  <div class="row">
+    <div class="col-4"><br> <br> <br>
+<br>
+<h4> Role:</h4>
+<p><font size="5"> UX/UI Designer , Content Manager, Data Analyst </font> </p>
+      <h4> Responsibilities:</h4>
+     
+<li ><font size="5"> Migration of Treasury.gov Pages</font></li>
+<li ><font size="5"> Participation in Daily Scrums for Treasury.gov and Interns</font></li>
+<li ><font size="5"> Creation of Web form for Code.gov</font></li>
+<li ><font size="5"> Creation of fillable PDF</font></li>
+<li ><font size="5"> Study coding HTML, CSS, Python</font></li>
+     
+  </div>
+
+
+    <div class="col-6">
+<font size="6" color="blue">Son Phan </font>
+<font size="5">OCIO Intern at digital team </font>
+      <img src="son3.jpg"  width="500"
+     height="500">
+
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+
+<div align="center">
+      <h4> How to find Degital Team office </h4>
+      <img src="1750map.png" alt="treasurybuilding"  width="1000"
+     height="341">
+
+  </div>   
+
+ <div class="footer-copyright" >
+      
+      <p >  Son Phan Web was designed in Spring 2020  </p> 
+     
+</div>
+</body>
+</html>

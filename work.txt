@@ -1,0 +1,185 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <title>Work</title>
+  <script src="jquery.min.js"></script>
+</head>
+
+<body style="background-image: url('logo.png');">
+  <link href='styles.css' rel='stylesheet' type='text/css'>
+<table>
+<tr>
+  <div class="navbar">
+    <ul class="navbar-container">
+
+    <li>  <a href="#" class=" nav-button brand-logo" ><font size="5" >THE DEPARTMENT OF THE TREASURY</font></a></li> 
+
+      <li class="nav-item"><a  class="left-underline nav-button"  href="index.html">CONTACT</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button" href="resume.html">RESUME</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button" href="work.html">WORK</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button"  href="main.html">HOME</a></li>
+    </ul>
+</div>
+</tr>
+<tr>
+<div class="navbar1" align="center">
+ <ul class="navbar-container">
+<P> <font size="6" color="Yellow">SON PHAN'S INTERNSHIP IN SPRING 2020 </font> </P>
+</ul>
+  </div>
+</tr>
+>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="parallax p1" id="section-1">
+    <hgroup>
+      
+      <img src="treasury building.jpg" alt="treasurybuilding"  width="650"
+     height="541">
+   </hgroup>
+
+</div>
+
+<div class="row" >
+   
+      <p><font size="5">  Internship at the digital team of the Department of the Treasury, Departmental Office, I have a huge chance to learn new things and to discover my ability of analyzing based on the technique that I have studied in the University of Maryland. By adopting a new environment of information technology, my internship routine involved in working on migration of Treasury.gov page, analyze data and create of Web form for code.gov. Besides, studying some coding languages such as HTML, CSS were my duties. My internship opened my mind about my career in the future very much because I am able to work in diversities fields which require analytical skills. </font> </p>
+       
+ </div>
+
+  <div class="row">
+    <div class="col-4">
+      <a href="https://home.treasury.gov/"><h4>THE DEPARTMENT OF THE TREASURY</h4></a>
+
+<p><font size="5"> The Department of the Treasury has two majors: Departmental Offices and the operating bureaus. Its basic functions include managing Federal finances, collecting taxes, duties and monies paid to and due to the U.S and paying all bills of the U.S, currency and coinage, managing Government accounts and the public debt, supervising national banks and thrift institutions, advising on domestic and international financial, monetary, economics, trade and tax policy, enforcing Federal finance and tax law, investigating and prosecuting tax evaders, counterfeiters, and forgers. It plays important roles to manage the financial and currency market along with Federal Reserve, and the fiscal budget for the government's activities.</font> </p>
+ 
+ </div>
+    <div class="col-6" align="center">
+      <h4>TREASURY CHART</h4>
+      <img src="organizational-chart.png" alt="organizational chart" >
+    </div> 
+  </div>
+
+<div class="row">
+<div class="col-4" align= "center">
+<h4>Digital Team office location </h4>
+<img src="1750building.jpg"  width="400"
+     height="300">
+</div>
+    <div class="col-6">
+   
+      <h4>DIGITAL TEAM</h4>
+
+      <p> <font size="5"> Digital Services provides public-facing, extranet, and intranet web solutions via the Workplace.gov Community Cloud (WC2) shared services offering to provide the U.S. Department of the Treasury with Software-As-A-Service (SaaS), Platform-As-A-Service (PaaS), and miscellaneous professional services including consulting on business solutions.</font></p>
+    </div></div>
+<br>
+
+ <div class="row">
+ <div class="container1">
+
+      <h4>DIGITAL TEAM'S SERVICES</h4>
+</div>
+    <div class="col-3">
+<ul >
+      <h4>Content Management Systems (CMS)</h4>
+      <li ><h5> Drupal</h5></li>
+      <li ><h5> SharePoint 2013</h5></li>
+<h4>Dashboards-as-a-Service</h4>
+      <li ><h5> Tableau</h5></li>
+      <li ><h5> SalesForce</h5></li>
+<h4>Premium Support</h4>
+      <li ><h5> Extended Service Desk Hours</h5></li>
+      <li ><h5> Enhanced Service Desk Service Level Objectives</h5></li>
+<li ><h5>Custom Support</h5></li>
+
+
+
+
+</ul>
+    </div>
+    <div class="col-3" >
+<ul >
+      <h4>Enterprise File Sharing and Sync</h4>
+      <li ><h5>. FileCloud</h5></li>
+<li ><h5> Box.com</h5></li>
+<li ><h5> SharePoint 2013</h5></li>
+<li ><h5> Drupal Web CMS (also SaaS)</h5></li>
+<li ><h5> Survey Gizmo</h5></li>
+<li ><h5> Salesforce (also SaaS)</h5></li>
+<li ><h5> Dashboards-as-a-Service (also SaaS)</h5></li>
+</ul>
+    </div> 
+   <div class="col-3" >
+     <ul >
+     <h4> Content Maintenance</h4>
+      <li ><h5> Critical Release Support</h5></li>
+<li ><h5> Service Desk</h5></li>
+<li ><h5> 508 Accessibility</h5></li>
+<li ><h5> Site Usability</h5></li>
+<li ><h5> Survey Gizmo</h5></li>
+<li ><h5> Web Analytics </h5></li>
+   
+<h4>Application Lifecycle Management (ALM)</h4>
+      <li ><h5> Atlassian Suite – JIRA, BitBucket, Bamboo and Confluence</h5></li>
+
+    </ul>
+    </div>
+  </div>
+    
+   
+
+
+  <div class="row">
+    <div class="col-4"><br> <br> <br>
+<br>
+<h4> Role:</h4>
+<p><h5> UX/UI Designer , Content Manager, Data Analyst </h5> </p>
+      <h4> Responsibilities:</h4>
+     
+<li ><h5> Migration of Treasury.gov Pages</h5></li>
+<li ><h5> Participation in Daily Scrums for Treasury.gov and Interns</h5></li>
+<li ><h5> Creation of Web form for Code.gov</h5></li>
+<li ><h5> Creation of fillable PDF</h5></li>
+<li ><h5> Study coding HTML, CSS, Python</h5></li>
+     
+  </div>
+
+
+    <div class="col-6">
+<font size="6" color="blue">Son Phan </font>
+<h5>OCIO Intern at digital team </h5>
+      <img src="IMG_4906.jpg"  width="600"
+     height="600">
+
+</div>
+</div>
+<br>
+<br>
+<br>
+<br>
+
+
+<div align="center">
+      <h4> How to find Degital Team office </h4>
+      <img src="1750map.png" alt="treasurybuilding"  width="1000"
+     height="341">
+
+  </div>   
+
+ <div class="footer-copyright" >
+      
+      <p >  Son Phan Web was designed in Spring 2020  </p> 
+     
+</div>
+</body>
+</html>
